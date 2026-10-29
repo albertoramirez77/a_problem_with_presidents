@@ -1,0 +1,11 @@
+rank,president,year_of_birth,lived_years,lived_months,lived_days,is_alive
+1,John F. Kennedy,1917,46.48,557.8,16978,False
+2,James A. Garfield,1831,49.83,598.0,18202,False
+3,James K. Polk,1795,53.62,643.4,19583,False
+4,Abraham Lincoln,1809,56.17,674.0,20516,False
+5,Chester Arthur,1829,57.12,685.4,20863,False
+6,Warren G. Harding,1865,57.74,692.9,21091,False
+7,William McKinley,1843,58.62,703.5,21412,False
+8,Theodore Roosevelt,1858,60.19,722.3,21985,False
+9,Calvin Coolidge,1872,60.5,726.0,22099,False
+10,Franklin Roosevelt,1882,63.2,758.3,23082,False

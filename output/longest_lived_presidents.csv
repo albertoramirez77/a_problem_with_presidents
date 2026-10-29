@@ -1,0 +1,11 @@
+rank,president,year_of_birth,lived_years,lived_months,lived_days,is_alive
+1,Jimmy Carter,1924,100.24,1202.9,36614,False
+2,George Bush,1924,94.47,1133.6,34504,False
+3,Gerald Ford,1913,93.45,1121.4,34133,False
+4,Ronald Reagan,1911,93.33,1119.9,34088,False
+5,John Adams,1735,90.67,1088.1,33119,False
+6,Herbert Hoover,1874,90.19,1082.3,32943,False
+7,Harry S. Truman,1884,88.63,1063.6,32373,False
+8,James Madison,1751,85.28,1023.4,31150,False
+9,Joe Biden,1942,83.94,1007.3,30659,True
+10,Thomas Jefferson,1743,83.22,998.7,30397,False

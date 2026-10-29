@@ -1,0 +1,46 @@
+president,birth_date,birth_place,death_date,location_of_death,is_alive,end_date,year_of_birth,lived_days,lived_years,lived_months,presidencies_served
+George Washington,1732-02-22,"Westmoreland Co., Va.",1799-12-14,"Mount Vernon, Va.",False,1799-12-14,1732,24767,67.81,813.7,1
+John Adams,1735-10-30,"Quincy, Mass.",1826-07-04,"Quincy, Mass.",False,1826-07-04,1735,33119,90.67,1088.1,1
+Thomas Jefferson,1743-04-13,"Albemarle Co., Va.",1826-07-04,"Albemarle Co., Va.",False,1826-07-04,1743,30397,83.22,998.7,1
+James Madison,1751-03-16,"Port Conway, Va.",1836-06-28,"Orange Co., Va.",False,1836-06-28,1751,31150,85.28,1023.4,1
+James Monroe,1758-04-28,"Westmoreland Co., Va.",1831-07-04,"New York, New York",False,1831-07-04,1758,26729,73.18,878.2,1
+John Quincy Adams,1767-07-11,"Quincy, Mass.",1848-02-23,"Washington, D.C.",False,1848-02-23,1767,29446,80.62,967.4,1
+Andrew Jackson,1767-03-15,"Waxhaws, No/So Carolina",1845-06-08,"Nashville, Tennessee",False,1845-06-08,1767,28574,78.23,938.8,1
+Martin Van Buren,1782-12-05,"Kinderhook, New York",1862-07-24,"Kinderhook, New York",False,1862-07-24,1782,29085,79.63,955.6,1
+William Henry Harrison,1773-02-09,"Charles City Co., Va.",1841-04-04,"Washington, D.C.",False,1841-04-04,1773,24890,68.15,817.7,1
+John Tyler,1790-03-29,"Charles City Co., Va.",1862-01-18,"Richmond, Va.",False,1862-01-18,1790,26227,71.81,861.7,1
+James K. Polk,1795-11-02,"Mecklenburg Co., N.C.",1849-06-15,"Nashville, Tennessee",False,1849-06-15,1795,19583,53.62,643.4,1
+Zachary Taylor,1784-11-24,"Orange County, Va.",1850-07-09,"Washington, D.C",False,1850-07-09,1784,23967,65.62,787.4,1
+Millard Fillmore,1800-01-07,"Cayuga Co., New York",1874-03-08,"Buffalo, New York",False,1874-03-08,1800,27088,74.16,890.0,1
+Franklin Pierce,1804-11-23,"Hillsborough, N.H.",1869-10-08,"Concord, New Hamp.",False,1869-10-08,1804,23695,64.87,778.5,1
+James Buchanan,1791-04-23,"Cove Gap, Pa.",1868-06-01,"Lancaster, Pa.",False,1868-06-01,1791,28163,77.11,925.3,1
+Abraham Lincoln,1809-02-12,"LaRue Co., Kentucky",1865-04-15,"Washington, D.C.",False,1865-04-15,1809,20516,56.17,674.0,1
+Andrew Johnson,1808-12-29,"Raleigh, North Carolina",1875-07-31,"Elizabethton, Tenn.",False,1875-07-31,1808,24320,66.58,799.0,1
+Ulysses S. Grant,1822-04-27,"Point Pleasant, Ohio",1885-07-23,"Wilton, New York",False,1885-07-23,1822,23098,63.24,758.9,1
+Rutherford B. Hayes,1822-10-04,"Delaware, Ohio",1893-01-17,"Fremont, Ohio",False,1893-01-17,1822,25673,70.29,843.5,1
+James A. Garfield,1831-11-19,"Cuyahoga Co., Ohio",1881-09-19,"Elberon, New Jersey",False,1881-09-19,1831,18202,49.83,598.0,1
+Chester Arthur,1829-10-05,"Fairfield, Vermont",1886-11-18,"New York, New York",False,1886-11-18,1829,20863,57.12,685.4,1
+Grover Cleveland,1837-03-18,"Caldwell, New Jersey",1908-06-24,"Princeton, New Jersey",False,1908-06-24,1837,26030,71.27,855.2,2
+Benjamin Harrison,1833-08-20,"North Bend, Ohio",1901-03-13,"Indianapolis, Indiana",False,1901-03-13,1833,24676,67.56,810.7,1
+William McKinley,1843-01-29,"Niles, Ohio",1901-09-14,"Buffalo, New York",False,1901-09-14,1843,21412,58.62,703.5,1
+Theodore Roosevelt,1858-10-27,"New York, New York",1919-01-06,"Oyster Bay, New York",False,1919-01-06,1858,21985,60.19,722.3,1
+William Howard Taft,1857-09-15,"Cincinnati, Ohio",1930-03-08,"Washington, D.C.",False,1930-03-08,1857,26471,72.47,869.7,1
+Woodrow Wilson,1856-12-28,"Staunton, Virginia",1924-02-03,"Washington, D.C.",False,1924-02-03,1856,24507,67.1,805.2,1
+Warren G. Harding,1865-11-02,"Morrow County, Ohio",1923-08-02,"San Francisco, Cal.",False,1923-08-02,1865,21091,57.74,692.9,1
+Calvin Coolidge,1872-07-04,"Plymouth, Vermont",1933-01-05,"Northampton, Mass.",False,1933-01-05,1872,22099,60.5,726.0,1
+Herbert Hoover,1874-08-10,"West Branch, Iowa",1964-10-20,"New York, New York",False,1964-10-20,1874,32943,90.19,1082.3,1
+Franklin Roosevelt,1882-01-30,"Hyde Park, New York",1945-04-12,"Warm Springs, Ga.",False,1945-04-12,1882,23082,63.2,758.3,1
+Harry S. Truman,1884-05-08,"Lamar, Missouri",1972-12-26,"Kansas City, Missouri",False,1972-12-26,1884,32373,88.63,1063.6,1
+Dwight Eisenhower,1890-10-14,"Denison, Texas",1969-03-28,"Washington, D.C.",False,1969-03-28,1890,28654,78.45,941.4,1
+John F. Kennedy,1917-05-29,"Brookline, Mass.",1963-11-22,"Dallas, Texas",False,1963-11-22,1917,16978,46.48,557.8,1
+Lyndon B. Johnson,1908-08-27,"Gillespie Co., Texas",1973-01-22,"Gillespie Co., Texas",False,1973-01-22,1908,23524,64.41,772.9,1
+Richard Nixon,1913-01-09,"Yorba Linda, Cal.",1994-04-22,"New York, New York",False,1994-04-22,1913,29688,81.28,975.4,1
+Gerald Ford,1913-07-14,"Omaha, Nebraska",2006-12-26,"Rancho Mirage, Cal.",False,2006-12-26,1913,34133,93.45,1121.4,1
+Jimmy Carter,1924-10-01,"Plains, Georgia",2024-12-29,,False,2024-12-29,1924,36614,100.24,1202.9,1
+Ronald Reagan,1911-02-06,"Tampico, Illinois",2004-06-05,"Los Angeles, Cal.",False,2004-06-05,1911,34088,93.33,1119.9,1
+George Bush,1924-06-12,"Milton, Mass.",2018-11-30,"Houston, Texas",False,2018-11-30,1924,34504,94.47,1133.6,1
+Bill Clinton,1946-08-19,"Hope, Arkansas",,,True,2026-10-29,1946,29291,80.19,962.3,1
+George W. Bush,1946-07-06,"New Haven, Conn.",,,True,2026-10-29,1946,29335,80.31,963.8,1
+Barack Obama,1961-08-04,"Honolulu, Hawaii",,,True,2026-10-29,1961,23827,65.23,782.8,1
+Donald Trump,1946-06-14,"New York, New York",,,True,2026-10-29,1946,29357,80.38,964.5,2
+Joe Biden,1942-11-20,"Scranton, Pa.",,,True,2026-10-29,1942,30659,83.94,1007.3,1
